@@ -1,0 +1,18 @@
+HTML
+
+#1- Added <h1> tag to "Boo The Dog Fan Page!
+#2- Added link to <a href="">
+#3- Added < and /> to image link of Boo
+#4- Added <li> tags to Boo fact list
+#5- Corrected the text in the color changing portion to reflect the correct color label.
+
+JS
+
+#1- Added " marks around individual strings booFacts variable.
+#2- escaped ' marks in two of the abovementioned strings
+#3- Added " marks around string "pink" in .js color changing function.
+#4- The "click" var was undefined in the grow/shrink functions because they were missing " marks. Added " marks.
+
+CSS
+
+No errors
