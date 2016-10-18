@@ -1,0 +1,49 @@
+p.red {
+	color: red;
+}
+
+p.blue {
+	color: blue;
+}
+
+p.green {
+	color:green;
+}
+
+p.big {
+	font-size: 30px;
+}
+
+p.tiny {
+	font-size: 10px;
+}
+
+p.centered {
+	text-align: center;
+}
+
+p.bold {
+	font-weight: bold;
+}
+
+p.font-family {
+	font-family: Georgia;
+}
+
+p.multiattrib {
+	font-size: 30px;
+	color: orange;
+	font-weight: bold;
+}
+
+p.styledFont {
+	font-family: Arial;
+	font-size: 25px;
+	color: blue;
+}
+
+#styledImage {
+	border-width: 5px;
+	border-style: dashed;
+	border-color: green;
+}
